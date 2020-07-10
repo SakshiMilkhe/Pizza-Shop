@@ -1,6 +1,3 @@
-/*
- * Deepika S Pomendkar
- */
 package dsp1;
 import java.util.*;
 import java.util.Random;
